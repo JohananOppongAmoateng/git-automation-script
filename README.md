@@ -35,7 +35,7 @@ chmod u+x install.sh
 
 ## Usage
 
-The script takes prompts you for the commit message,branch name and files to be staged:
+The script takes prompts you for the commit message and files to be staged:
 
 
 ## License
