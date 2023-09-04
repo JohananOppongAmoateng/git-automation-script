@@ -22,6 +22,8 @@ function git_add_commit(){
     echo "files added"
     git commit -m"$commit_message"
 
+    git push 
+
     }
 
 
