@@ -24,7 +24,7 @@ cd git-automation-script
 3. Make the script executable:
 
 
-chmod +x install.sh
+chmod u+x install.sh
 
 
 4. Run the script:
